@@ -1,6 +1,7 @@
 # Mr-Spider-Coming
 
-Happy girl saw spider came suddenly on it's head then runs to rescue.
+Girl dancing suddenly saw spider came suddenly on it's head then runs to rescue.
+Used : CSS transforms 
 Contributors : Jenny Uppal --> https://github.com/jennycodes18/
  
 # Problem: when chained more than one animation keyframe to single element Other keyframe animations don't work second time. Can you solve it?
