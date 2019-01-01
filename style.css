@@ -19,7 +19,7 @@ body{
     top: -150px;
     left: 95px; 
     transform-origin: 10px 10px;
-    animation: spiderwalk 4s linear infinite, webRotate 2s 4s;
+    animation: spiderwalk 4s linear infinite, webRotate 2s 4s infinite;
 }
 .girl1{
     position: absolute;
@@ -56,7 +56,7 @@ body{
     100%{transform:translateY(150px)rotateZ(10deg)}
 }
 @keyframes scare{
-    0%{transform: rotateZ(0)}
+    0%{transform: rotateZ(0) }
    
     100%{transform: rotateZ(10deg)}
 }
