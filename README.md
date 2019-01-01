@@ -3,7 +3,7 @@
 Happy girl saw spider came suddenly on it's head then runs to rescue.
 Contributors : Jenny Uppal --> https://github.com/jennycodes18/
  
-# Problem: when chained more than one animation keyframe to single element 
+# Problem: when chained more than one animation keyframe to single element Other keyframe animations don't work second time. Can you solve it?
           for example -->
           
           LINE 29 : animation: movement 1s linear infinite , scare 1s 3s linear infinite , run 2s 4s linear infinite ;
